@@ -15,3 +15,5 @@ Technologies Used
 
 - HTML5: For creating the website's structure.
 - CSS3: For styling and responsive design.
+
+## check this static website deployed on render : https://living-liquidz.onrender.com
